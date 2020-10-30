@@ -1,0 +1,8 @@
+.about {
+    height: 560px;
+}
+.about img {
+    height: 300px;
+    width: 260px;
+    border-radius: 50%;
+}

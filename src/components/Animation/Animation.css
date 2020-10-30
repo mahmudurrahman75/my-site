@@ -1,0 +1,22 @@
+.animation h2 {
+    color: white;
+    margin-left: 80px;
+    font-size: 40px;
+    margin-bottom: 200px;
+    font-weight: 600;
+    color: white;
+}
+.animation h4 {
+    color: white;
+    margin-left: 700px;
+    font-size: 40px;
+    margin-bottom: 50px;
+    font-weight: 400;
+}
+.animation h3 {
+    color: goldenrod;
+    font-size: 50px;
+    margin-left: 450px;
+    /* margin-top: 80px; */
+    font-weight: 500;
+}

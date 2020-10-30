@@ -1,0 +1,10 @@
+.work {
+    height: 720px;
+    
+}
+.work img {
+    height: 270px;
+    width: 430px;
+    margin: 10px;
+    padding: 20px;
+}

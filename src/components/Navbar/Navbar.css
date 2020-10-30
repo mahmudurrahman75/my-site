@@ -1,0 +1,18 @@
+.navbar {
+    height:55px;
+    background-color: black;
+}
+.load {
+    height: 30px;
+    width: 150px;
+    border: transparent;
+    border-radius: 6px;
+    margin-top: 7px;
+}
+.load a {
+    color: white;
+}
+.load a:hover {
+    text-decoration: none;
+    color: cyan;
+}

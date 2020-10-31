@@ -1,5 +1,6 @@
 import React from 'react';
 import "./Card.css";
+import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
 import prj1 from '../../images/prj1.JPG';
 import prj5 from '../../images/prj5.JPG';
 import prj6 from '../../images/prj6.JPG';
@@ -7,7 +8,7 @@ import prj7 from '../../images/prj7.JPG';
 
 const Card = () => {
     return (
-        <div className="services-container mt-5" style={{ height: "400px" }} class="crd">
+        <div className="services-container mt-5" style={{ height: "550px" }} class="crd">
             
             <div  className="d-flex justify-content-center" >
             <div className=" row mt-5 pt-5">

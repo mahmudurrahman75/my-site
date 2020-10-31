@@ -1,0 +1,18 @@
+.skill {
+    
+    height: 170px;
+    margin-left: 400px;
+    color: white;
+}
+.bod {
+    background-color: #111a28;
+    margin-left: 410px;
+}
+.skill li {
+    font-size: 20px;
+    font-weight: 600;
+}
+.skill li:hover {
+    color: #0653b6;
+    cursor: pointer;
+}

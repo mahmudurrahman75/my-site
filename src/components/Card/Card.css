@@ -1,8 +1,14 @@
 .crd .serviceBd {
-    margin-top: 1200px;
+    margin-top: 80px;
     margin-left: 60px;
     padding: 30px;
 }
+
+.crd {
+    
+    background-color: #111a28;
+}
+
 .crd img {
     height: 220px;
     width: 350px;
@@ -17,4 +23,6 @@
     margin-top: 20px;
     font-weight: 400;
     font-size: 20px;
+    color: white;
 }
+

@@ -1,0 +1,37 @@
+.body {
+    background-color: #111a28;
+}
+
+
+
+.test .card{
+    margin: 30px;
+    margin-left: 25px;
+   
+}
+
+
+.card-body {
+    background-color: rgb(233, 236, 216);
+}
+.card {
+    height: 700px;
+    width: 380px;
+}
+
+.technology span {
+    display: inline-block;
+    margin: 3px 0;
+    color:  #0653b6;
+    border-radius: 8px;
+    margin: 4px;
+    padding: 5px 10px;
+    font-size: 13px;
+    border: 2px solid #f3c623;   
+}
+.card a {
+    font-size: 15px;
+    font-weight: 500;
+}
+
+/* #f3c623 */

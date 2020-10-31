@@ -8,7 +8,7 @@ import Card from '../Card/Card';
 
 const MyProject = () => {
     return (
-        <div className="myProject">
+        <div className="myProject" style={{backgroundColor:"#111a28"}}>
             <Navbar></Navbar>
             <ProjectData></ProjectData>
             <Card></Card>

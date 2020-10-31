@@ -23,9 +23,7 @@ const Navbar = () => {
                     <li class="nav-item">
                         <a style={{color:"#0653b6", fontSize:"19px"}} class="nav-link mr-5" href="/blog">Blog</a>
                     </li>
-                    <li class="nav-item">
-                        <a style={{color:"#0653b6", fontSize:"19px"}} class="nav-link mr-5" href="/myResume">My Resume</a>
-                    </li>
+                    
                     <li class="nav-item">
                         <a style={{color:"#0653b6", fontSize:"19px"}} class="nav-link mr-5" href="contactMe">Contact Me</a>
                     </li>

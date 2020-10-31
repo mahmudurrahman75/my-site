@@ -11,6 +11,8 @@ import MyProject from './components/MyProject/MyProject';
 import Blog from './components/Blog/Blog';
 import MyResume from './components/MyResume/MyResume';
 import ContactMe from './components/ContactMe/ContactMe';
+import Test from './components/Test/Test';
+import Skill from './components/Skill/Skill';
 
 function App() {
   return (
@@ -25,11 +27,11 @@ function App() {
         <Route path="/blog">
           <Blog></Blog>
         </Route>
-        <Route path="/myResume">
-          <MyResume></MyResume>
-        </Route>
         <Route path="/contactMe">
           <ContactMe></ContactMe>
+        </Route>
+        <Route path="/test">
+          <Test></Test>
         </Route>
         <Route exact path="/">
           <Home></Home>

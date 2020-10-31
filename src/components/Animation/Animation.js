@@ -39,7 +39,7 @@ const Animation = () => {
 
     return (
         <div class="animation">
-            <h2>Hello, I'm Mahmudur Rahman.<br/> I'm a front-end web developer.</h2>
+            <h2>Hello, I'm <span style={{color:"#08fdd8"}}>Mahmudur Rahman.</span><br/> I'm a front-end web developer.</h2>
             {/* <h3>start our project</h3> */}
             <Trail open={open} onClick={() => set((state) => !state)}>
             <h4>Get ready to turn ideas into reality</h4>

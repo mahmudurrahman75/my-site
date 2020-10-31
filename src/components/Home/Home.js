@@ -2,6 +2,7 @@ import React from 'react';
 import About from '../About/About';
 import Header from '../Header/Header';
 import Navbar from '../Navbar/Navbar';
+import Skill from '../Skill/Skill';
 import Work from '../Work/Work';
 
 const Home = () => {
@@ -10,6 +11,7 @@ const Home = () => {
             <Navbar></Navbar>
             <Header></Header>
             <About></About>
+            <Skill></Skill>
             <Work></Work>
         </div>
     );

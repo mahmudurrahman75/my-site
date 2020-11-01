@@ -13,6 +13,7 @@ import MyResume from './components/MyResume/MyResume';
 import ContactMe from './components/ContactMe/ContactMe';
 import Test from './components/Test/Test';
 import Skill from './components/Skill/Skill';
+import Icons from './components/Icons/Icons';
 
 function App() {
   return (
@@ -32,6 +33,9 @@ function App() {
         </Route>
         <Route path="/test">
           <Test></Test>
+        </Route>
+        <Route path="/icons">
+          <Icons></Icons>
         </Route>
         <Route exact path="/">
           <Home></Home>

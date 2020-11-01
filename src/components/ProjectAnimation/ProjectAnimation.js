@@ -22,7 +22,7 @@ const ProjectAnimation = () => {
                         })
                         .interpolate(x => `scale(${x})`)
                     }}>
-                    <h2 style={{textAlign:"center", marginTop:"50px", fontSize:"50px", fontWeight:"700", color:"goldenrod",marginBottom:"70px"}}>THIS IS MY PROJECTS</h2>
+                    <h2 style={{textAlign:"center", marginTop:"50px", fontSize:"50px", fontWeight:"700", color:"goldenrod",marginBottom:"70px"}}>THIS ARE MY PROJECTS</h2>
                 </animated.div>
             </div>
         </div>

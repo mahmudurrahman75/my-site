@@ -1,0 +1,22 @@
+.brandIcon {
+    height: 400px;
+}
+.brandLogo img {
+    width: 130px;
+    height: 80px;
+    margin-top: 60px;
+    margin-left: 60px;
+    border-radius: 10px;
+}
+.icons {
+    background-color: #111a28;
+}
+
+.brandLogo img:hover {
+    box-shadow: 15px 15px 60px #0653b6;
+    border-radius: 10px;
+    cursor: pointer;
+    border-left: 6px solid cyan;
+    border-image: linear-gradient(180 deg, blue, cyan);
+    border-image-slice: 1;
+}
